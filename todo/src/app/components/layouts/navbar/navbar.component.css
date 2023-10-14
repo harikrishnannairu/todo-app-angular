@@ -1,0 +1,15 @@
+header{
+    height:100px;
+    padding-top:30px;
+    padding-bottom:20px;
+    margin-bottom: 50px;
+    -webkit-box-shadow: -1px 6px 23px 5px rgba(201,195,201,1);
+    -moz-box-shadow: -1px 6px 23px 5px rgba(201,195,201,1);
+    box-shadow: -1px 6px 23px 5px rgba(201,195,201,1);
+}
+.brand{
+background-color: rgb(153, 234, 252);
+padding:10px 50px;
+border-radius: 50px;
+cursor: pointer;
+}

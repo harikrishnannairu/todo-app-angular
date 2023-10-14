@@ -1,0 +1,8 @@
+footer{
+    height:100px;
+    padding-top:30px;
+    padding-bottom:20px;
+    -webkit-box-shadow: -1px 6px 23px 5px rgba(201,195,201,1);
+    -moz-box-shadow: -1px 6px 23px 5px rgba(201,195,201,1);
+    box-shadow: -1px 6px 23px 5px rgba(201,195,201,1);
+}
